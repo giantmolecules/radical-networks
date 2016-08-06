@@ -1,11 +1,11 @@
 ## Title of Talk / Panel / Workshop / Demo
 
-    Name : Jane Doe
-    Location : Brooklyn, NY
-    Email : janedoe@youremail.com
-    Twitter : [@janedoe](url to twitter account)
-    GitHub : [janedoe](url to GitHub account)
-    Url(s) : [jane.doe.com](url to relevant sites)
+    Name : Brett Ian Balogh
+    Location : Chicago, IL
+    Email : brettbalogh@gmail.com
+    Twitter : [@brettbalogh](https://twitter.com/brettbalogh)
+    GitHub : [giantmolecules](url to GitHub account)
+    Url(s) : [brettbalogh.com](url to relevant sites)
 
 ## Type of proposal
 
