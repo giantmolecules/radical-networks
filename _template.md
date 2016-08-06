@@ -4,8 +4,8 @@
     Location : Chicago, IL
     Email : brettbalogh@gmail.com
     Twitter : [@brettbalogh](https://twitter.com/brettbalogh)
-    GitHub : [giantmolecules](url to GitHub account)
-    Url(s) : [brettbalogh.com](url to relevant sites)
+    GitHub : [giantmolecules](https://github.com/giantmolecules)
+    Url(s) : [brettbalogh.com](brettbalogh.com)
 
 ## Type of proposal
 
